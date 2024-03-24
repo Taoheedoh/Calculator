@@ -112,6 +112,9 @@ body{
     border: 0;
     color: white;
     margin-top: 5px;
+    text-align: end;
+    padding: 10px;
+    font-size: 34px;
 }
 
 .layer3{

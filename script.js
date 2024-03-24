@@ -18,3 +18,7 @@ function getResult() {
 function reset(){
     result.value = ""
 }
+
+function del(){
+    result.value = result.value.slice(0, -1)
+}
